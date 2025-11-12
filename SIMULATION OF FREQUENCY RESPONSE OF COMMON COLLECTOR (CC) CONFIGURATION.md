@@ -1,7 +1,7 @@
-# SIMULATION OF FREQUENCY RESPONSE OF COMMON BASE (CB) CONFIGURATION
+# SIMULATION OF FREQUENCY RESPONSE OF COMMON COLLECTOR (CC) CONFIGURATION
 
 ## AIM:
-To design and simulate the frequency response of a common base configuration circuit using LT-Spice.
+To design and simulate the frequency response of a common collector configuration circuit using LT-Spice.
 
 ## SOFTWARE REQUIRED:
 LT-Spice
@@ -31,7 +31,7 @@ LT-Spice
 
 
 ## RESULT:
-Thus the frequency response of common base configuration circuit using LT-spice is simulated and verified. 
+Thus the frequency response of common collector configuration circuit using LT-spice is simulated and verified. 
 
 
 
