@@ -25,13 +25,12 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 
+![WhatsApp Image 2025-11-22 at 21 54 54_1468c23c](https://github.com/user-attachments/assets/a1f1b547-6d53-4cf3-aecd-dc5b8a1dd9d2)
 
 
 ## OUTPUT GRAPH:
 
+![WhatsApp Image 2025-11-22 at 21 54 54_5c9ac7a8](https://github.com/user-attachments/assets/5e954851-2e1b-4d07-9054-ffecfaf98c26)
 
 ## RESULT:
 Thus the frequency response of common collector configuration circuit using LT-spice is simulated and verified. 
-
-
-
